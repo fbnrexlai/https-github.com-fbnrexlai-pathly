@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Smart Trip Planner",
+  "description": "A sophisticated trip planning application that helps users organize multi-day itineraries, search for locations with Google Maps grounding, and calculate transit times across various transportation modes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
